@@ -1,6 +1,6 @@
 # Landing Page
 
-Personal landing page for [madza.dev](https://madza.dev).
+Personal landing page for (https://doc22940.github.io).
 
 Designed to keep simplicity in mind in both setup and UI.
 
